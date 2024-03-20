@@ -22,7 +22,7 @@ My task is to build an API for social network web application where users can sh
 # Mock-Up
 
 The following image shows the web application's appearance and functionality:
-(./network.png)
+(./network.png) 
 
 ## Review
 
